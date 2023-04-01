@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-eyvazli)
+- :mailbox:How to reach me: (rus.eyvazli@outlook.com)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=1BCD0CCA&center=true&width=500&height=80&lines=Software+Developer" alt="Typing SVG" /></a>
 <div id="badges">
