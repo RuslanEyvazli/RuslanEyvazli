@@ -35,7 +35,7 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: <b>I’m currently studing</b>: Data Science Specialization.
 
-  <li>👨‍💻  <b>I’m currently learning</b>: React and Expanding software development skills. </li>
+  <li>👨‍💻  <b>I’m currently learning</b>: React and Expanding my software development skills. </li>
 
 - :zap: <b>In my free time</b>, I solve problems on GeeksforGeeks and read tech articles.
 
