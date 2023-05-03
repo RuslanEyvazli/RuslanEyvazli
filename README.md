@@ -1,4 +1,12 @@
-<h1 align="center">I`m Ruslan Eyvazli  👋</h1>
+<h1 align="center">I`m Ruslan Eyvazli  👋
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</h1>
+
+
+
+
+
 <!--
 **RuslanEyvazli/RuslanEyvazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +24,13 @@ Here are some ideas to get you started:
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me** :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
   <li>🎯 <b>I’m currently focusing on</b>: <a href="#">Problem-Solving</a></li>
+  <p></p>
+  <li>👨‍💻 <b>I’m currently focusing on</b>: <a href="#">Problem-Solving, Algorithm and Data Sturucture</a></li>  
 
 - :seedling: <b>I’m currently learning</b>: Data Science.</li>
 
@@ -58,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   
 
-  
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
   
 
