@@ -1,4 +1,4 @@
-<h1 align="center">I am Ruslan Eyvazli <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=700&width=435&lines=+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+<h1 align="center">I am Ruslan Eyvazli <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=700&center=true&width=435&lines=+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 <!--
 **RuslanEyvazli/RuslanEyvazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
