@@ -41,7 +41,7 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :mailbox:<b>How to reach me</b>: (rus.eyvazli@outlook.com)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AF744&center=true&width=800&lines=Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AF744&center=true&width=1000&lines=Software+Developer" alt="Typing SVG" /></a>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/ruslan-eyvazli">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
