@@ -31,7 +31,7 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
 
-  <li>🎯  <b>I’m currently focusing on</b>: <a href="#">Problem-Solving, Algorithm and Data Sturucture</a></li>  
+  <li>🎯  <b>I’m currently focusing on</b>: Problem-Solving, Algorithm and Data Sturucture</li>  
 
 - :seedling: <b>I’m currently studing</b>: Data Science Specialization.
 
@@ -72,7 +72,5 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
   
 
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  
   <h1> Profile View : </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuslanEyvazli" alt="HridoyHazard" /> </p>
