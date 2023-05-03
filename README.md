@@ -1,4 +1,4 @@
-<h1 align="center">I`m Ruslan Eyvazli  👋
+<h1 align="center">I`m Ruslan Eyvazli   <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </h1>
@@ -28,20 +28,21 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
-  <li>🎯 <b>I’m currently focusing on</b>: <a href="#">Problem-Solving</a></li>
-  <p></p>
-  <li>👨‍💻 <b>I’m currently focusing on</b>: <a href="#">Problem-Solving, Algorithm and Data Sturucture</a></li>  
 
-- :seedling: <b>I’m currently learning</b>: Data Science.</li>
+  <li>🎯  <b>I’m currently focusing on</b>: <a href="#">Problem-Solving, Algorithm and Data Sturucture</a></li>  
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: <b>I’m currently studing</b>: Data Science Specialization.
 
-- :mailbox:How to reach me: (rus.eyvazli@outlook.com)
+  <li>👨‍💻  <b>I’m currently learning</b>: React and Expanding software development skills. </li>
+
+- :zap: <b>In my free time</b>, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:<b>How to reach me</b>: (rus.eyvazli@outlook.com)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AF744&center=true&width=800&lines=Software+Developer" alt="Typing SVG" /></a>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ruslan-eyvazli">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/RuslanEyvazli">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -70,5 +71,5 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
-  
-
+  <h1> Profile View : </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RuslanEyvazli" alt="HridoyHazard" /> </p>
