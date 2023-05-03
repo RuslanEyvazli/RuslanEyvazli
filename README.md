@@ -20,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-<p>🎯 <b>I’m currently focusing on</b>: <a href="#">Problem-Solving</a><p>
+-: <p>🎯 <b>I’m currently focusing on</b>: <a href="#">Problem-Solving</a><p>
 
 - :seedling: <b>I’m currently learning</b>: Data Science.</li>
 
