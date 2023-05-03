@@ -31,7 +31,7 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
 
 
-  <li>🎯  <b>I’m currently focusing on</b>: Problem-Solving, Algorithm and Data Sturucture</li>  
+  <li>🎯  <b>I’m currently focusing on</b>: Problem-Solving, Algorithm, Data Sturucture and System Desing</li>  
 
 - :seedling: <b>I’m currently studing</b>: Data Science Specialization.
 
