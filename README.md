@@ -47,7 +47,7 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <a href="https://twitter.com/RuslanEyvazli">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://github.com/RuslanEyvazli" target="_blank"><img height="25" src="https://raw.githubusercontent.com/RuslanEyvazli/RuslanEyvazli/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
 </div>
 <h3 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:</h3>
 
