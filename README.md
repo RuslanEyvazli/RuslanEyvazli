@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to  backend for building web applications.
+- :telescope: <b>I’m working as</b> a Software Developer and contributing to backend for building web applications.
 
 
   <li>🎯  <b>I’m currently focusing on</b>: Problem-Solving, Algorithm, Data Sturucture and System Desing</li>  
