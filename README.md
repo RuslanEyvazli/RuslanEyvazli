@@ -37,7 +37,7 @@ I am .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
   <li>👨‍💻  <b>I’m currently learning</b>: React and Expanding my software development skills. </li>
 
-- :zap: <b>In my free time</b>, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: <b>In my free time</b>, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:<b>How to reach me</b>: (rus.eyvazli@outlook.com)
 
